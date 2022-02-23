@@ -1,5 +1,5 @@
 {
-  "name": "node-hello",
+  "name": "@bobbylin-cdc/node-hello",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
